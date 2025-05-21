@@ -8,7 +8,8 @@ Alguns dos meus projetos estão disponíveis na aba "Repositórios". Sinta-se à
 
 
 ## 🛠 Habilidades
-**SO:** [![My Skills](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)
+**SO:** 
+[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)
 
 
 **Front-end:** [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,angular,nextjs,bootstrap,tailwind,graphql&perline=5)](https://skillicons.dev)
