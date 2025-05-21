@@ -13,12 +13,18 @@ Alguns dos meus projetos estão disponíveis na aba "Repositórios". Sinta-se à
 [![My Skills](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)
 
 
-**Front-end:** [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,angular,nextjs,bootstrap,tailwind,graphql&perline=5)](https://skillicons.dev)
+**Front-end:** 
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,angular,nextjs,bootstrap,tailwind,graphql&perline=5)](https://skillicons.dev)
 
 
-**Back-end:** [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql,postgres,sqlite,docker,aws&perline=5)](https://skillicons.dev)
+**Back-end:** 
 
-**Tools:** [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,git,github,gitlab,bitbucket,powershell,stackoverflow,postman,discord,figma&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql,postgres,sqlite,docker,aws&perline=5)](https://skillicons.dev)
+
+**Tools:** 
+
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,git,github,gitlab,bitbucket,powershell,stackoverflow,postman,discord,figma&perline=5)](https://skillicons.dev)
 
 
 ## 🔗 Links
