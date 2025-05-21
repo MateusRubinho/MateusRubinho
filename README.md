@@ -1,49 +1,27 @@
-<h2 align="left">About me</h2>
 
-###
+# Olá, eu sou o Mateus! 👋
 
-<p align="left">Programo em C# e tenho experiencias com projetos do tipo ASP.NET core web api, Windows forms. Para a base dados uso SQLserver. Também tenho experiencia com HTML, CSS, JS e Angular 2.</p>
 
-###
+## 🚀 Sobre mim
+Sou desenvolvedor fullstack em constante evolução, sempre buscando aprimorar minhas habilidades técnicas e contribuir com soluções eficientes. Acredito no poder do trabalho em equipe, na troca de conhecimento e na construção de um ambiente colaborativo.
+Alguns dos meus projetos estão disponíveis na aba "Repositórios". Sinta-se à vontade para explorá-los.
 
-<h2 align="left">Techs</h2>
 
-###
+## 🛠 Habilidades
+**SO:** [![My Skills](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)
 
-<div align="left">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
 
-###
+**Front-end:** [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,angular,nextjs,bootstrap,tailwind,graphql&perline=5)](https://skillicons.dev)
 
-<h2 align="left">Stats</h2>
 
-###
+**Back-end:** [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql,postgres,sqlite,docker,aws&perline=5)](https://skillicons.dev)
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MateusRubinho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1&custom_title=my_stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MateusRubinho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MateusRubinho&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+**Tools:** [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,git,github,gitlab,bitbucket,powershell,stackoverflow,postman,discord,figma&perline=5)](https://skillicons.dev)
 
-###
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/meu_portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mrubinho.vercel.app/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-rubinho-522982268/)
+
+[![gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=mateusrubinho8@gmail.com)
